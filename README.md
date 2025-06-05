@@ -73,14 +73,7 @@ Ce projet vise à développer un **prototype de jumeau numérique personnalisé*
 - Ontologie : [HPO – Human Phenotype Ontology](https://hpo.jax.org/app/download/ontology)
 - Connaissances biomédicales : DrugBank, DisGeNET (via API)
 
----
 
-## 🧠 Pourquoi ce projet ?
-
-Ce projet reproduit **les missions d’un Data Scientist dans la recherche médicale**, et montre :
-- Une capacité à **travailler sur des données médicales hétérogènes**
-- Une **compréhension des enjeux cliniques** (stratification, prédiction)
-- Des compétences concrètes en **modélisation multimodale** et **IA appliquée à la santé**
 
 ---
 
