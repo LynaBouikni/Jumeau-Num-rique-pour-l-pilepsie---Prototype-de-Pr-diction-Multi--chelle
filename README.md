@@ -1,1 +1,1 @@
-# Jumeau-Num-rique-pour-l-pilepsie---Prototype-de-Pr-diction-Multi--chelle
+# Jumeau Numérique pour l'Épilepsie - Prototype de Prédiction Multi-échelle
